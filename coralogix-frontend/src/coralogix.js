@@ -1,7 +1,7 @@
 import { CoralogixRum } from '@coralogix/browser';
 
 CoralogixRum.init({
-  public_key: 'cxtp_B9RbTDar9tByEdUgx3UuP2yByjkWHo',
+  public_key: '<Your send your data key>',
   application: 'react-app',
   version: '1.0.0',
   coralogixDomain: 'EU2'
